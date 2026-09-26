@@ -1,6 +1,0 @@
-import QueryComplexity.QueryList
-import QueryComplexity.DirectProductNumerics
-
-#print axioms QueryComplexity.DecisionTree.heavyListTree_contains
-#print axioms QueryComplexity.DecisionTree.depth_heavyListTree
-#print axioms QueryComplexity.DirectProduct.list_bound_twelfth

@@ -1,6 +1,0 @@
-import QueryComplexity.DirectProduct
-
-#print axioms QueryComplexity.DirectProduct.jointScore_eq_productScore
-#print axioms QueryComplexity.DirectProduct.jointScore_direct_product
-#print axioms QueryComplexity.DirectProduct.randomized_list_direct_product
-#print axioms QueryComplexity.DirectProduct.R_gt_of_hard_distribution

@@ -1,6 +1,0 @@
-import QueryComplexity.FamilyListDPT
-
-#print axioms QueryComplexity.CellProjection.projectCell_cost
-#print axioms QueryComplexity.CellProjection.coreListTree_contains
-#print axioms QueryComplexity.Construction.outer_list_capacity
-#print axioms QueryComplexity.Construction.randomized_outerListTree_success_le

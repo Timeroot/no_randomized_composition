@@ -1,6 +1,0 @@
-import QueryComplexity.FamilyComparison
-
-#print axioms QueryComplexity.Construction.R_F_gt
-#print axioms QueryComplexity.Construction.R_composition_upper
-#print axioms QueryComplexity.Construction.amplification_rate_littleO
-#print axioms QueryComplexity.Construction.counterexample_of_eventual_inner_lower

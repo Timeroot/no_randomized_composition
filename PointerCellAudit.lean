@@ -1,5 +1,0 @@
-import QueryComplexity.PointerCellLower
-
-#print axioms QueryComplexity.PointerDistributions.pointer_majority_cell_hard
-#print axioms QueryComplexity.PointerDistributions.fixedLabel_bad_variance_bound
-#print axioms QueryComplexity.EqualitySearch.expected_discoveries_bound

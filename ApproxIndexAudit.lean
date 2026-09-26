@@ -1,5 +1,0 @@
-import QueryComplexity.ApproxIndexParameters
-
-#print axioms QueryComplexity.ApproxIndex.ballSliceBound_fourth_moment
-#print axioms QueryComplexity.ApproxIndex.seed_hardness
-#print axioms QueryComplexity.ApproxIndex.R_seed_extension_gt

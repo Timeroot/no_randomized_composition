@@ -1,6 +1,10 @@
 name = "NoisyR"
 version = "0.1.0"
-defaultTargets = ["QueryComplexity"]
+defaultTargets = ["ForMathlib", "QueryComplexity", "Solution"]
+
+[leanOptions]
+linter.mathlibStandardSet = true
+linter.flexible = true
 
 [[require]]
 name = "mathlib"
@@ -9,3 +13,13 @@ rev = "v4.28.0"
 
 [[lean_lib]]
 name = "QueryComplexity"
+
+[[lean_lib]]
+name = "ForMathlib"
+
+[[lean_lib]]
+name = "Main"
+globs = ["Main.+"]
+
+[[lean_lib]]
+name = "Solution"

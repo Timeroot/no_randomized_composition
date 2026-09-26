@@ -1,4 +1,4 @@
-import QueryComplexity.Definitions
+import Main.Statement
 
 /-!
 Minimal reference certificate. Its single `sorry` is the requested target,

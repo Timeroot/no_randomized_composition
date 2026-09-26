@@ -1,5 +1,0 @@
-import QueryComplexity.CodedRLower
-
-#print axioms QueryComplexity.CodedOracleSimulation.simulate_bound
-#print axioms QueryComplexity.CodedOracleSimulation.R_blockEncoded_lower
-#print axioms QueryComplexity.BinaryCode.privateDecoder_uniform
