@@ -1,0 +1,6 @@
+import QueryComplexity.FamilyCoreHard
+
+#print axioms QueryComplexity.Construction.core_hardness
+#print axioms QueryComplexity.Construction.coreWeight_certified
+#print axioms QueryComplexity.Construction.R_coreExtension_gt
+#print axioms QueryComplexity.ApproxIndex.simulatedTree_expected_cost_le

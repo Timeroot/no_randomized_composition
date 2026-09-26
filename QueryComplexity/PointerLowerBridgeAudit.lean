@@ -1,0 +1,6 @@
+import QueryComplexity.PointerEncodedLower
+import QueryComplexity.PointerLayerSources
+
+#print axioms QueryComplexity.PointerDistributions.layerWeight_expectation_le
+#print axioms QueryComplexity.PointerDistributions.R_inner_lower_of_cell_bound
+#print axioms QueryComplexity.PointerDistributions.flatHardWeight_score

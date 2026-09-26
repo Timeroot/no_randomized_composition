@@ -1,0 +1,10 @@
+import QueryComplexity.OuterLower
+import QueryComplexity.OracleOptimization
+import QueryComplexity.BernoulliVariance
+
+#print axioms QueryComplexity.Construction.R_outer_gt
+#print axioms QueryComplexity.Construction.outer_no_randomized_bound
+#print axioms QueryComplexity.OracleOptimization.exists_optimal_tree
+#print axioms QueryComplexity.OracleOptimization.opt_le_of_tree_bound
+#print axioms QueryComplexity.OracleOptimization.score_le_opt
+#print axioms QueryComplexity.BernoulliProduct.upper_tail_of_mean_le

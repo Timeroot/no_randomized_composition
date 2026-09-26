@@ -1,0 +1,3 @@
+import QueryComplexity.Proof
+
+#print axioms total_total_composition_counterexample
